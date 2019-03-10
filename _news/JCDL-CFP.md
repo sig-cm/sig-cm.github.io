@@ -5,11 +5,12 @@ date: 2019-03-08 16:11:00-0400
 inline: false
 ---
 
-SIG-CM is hosting a workshop at the 2019 [Joint Conference on Digital Libraries](https://2019.jcdl.org/). The workshop will take place on **June 6th** at the University of Illinois, Champaign-Urbana. Registration info for JCDL and the workshop can be found [here](https://2019.jcdl.org/registration/).   At the workshop [Dr. Karen Wickett](https://ischool.illinois.edu/people/karen-wickett) will be giving a keynote.
+SIG-CM is hosting a workshop at the 2019 [Joint Conference on Digital Libraries](https://2019.jcdl.org/). The workshop will take place on **June 6th** at the University of Illinois, Champaign-Urbana. Registration info for JCDL and the workshop can be found [here](https://2019.jcdl.org/registration/). 
 
-The call for papers (below) includes directions for how to make a submission to the workshop. All accepted submissions will be given a 10-20 minute slot for presentation and (friendly) discussion.
+The call for papers (below) includes directions for how to make a submission to the workshop. All accepted submissions will be given a 15-25 minute slot for presentation and (friendly) discussion.
 
-We also plan to organize a special issue for an information science journal based on the proceedings. If you have any questions please feel free to get in contact with any of the organizers in advance.
+We're excited to announce that [Dr. Karen Wickett](https://ischool.illinois.edu/people/karen-wickett) will be giving a keynote lecture at the worksho! We also plan to organize a special issue for an information science journal based on the proceedings. If you have any questions please feel free to get in contact with any of the organizers in advance.
+<br>
 
 ### Call For Papers
 
@@ -38,7 +39,7 @@ Please submit a PDF, DOC, or TXT document to nmweber@uw.edu by April 25th. You m
 All Submissions will be reviewed by the organizing committee.
 
 **Organizing Committee**      
-- Katrina Fenlon (kfenlon@umd.edu), University of Maryland
-- Peter Organisciak (peter.organisciak@du.edu), Denver University
-- Andrea K. Thomer (athomer@umich.edu), University of Michigan
-- Nic Weber (nmweber@uw.edu), University of Washington
+- Katrina Fenlon (kfenlon@umd.edu) University of Maryland
+- Peter Organisciak (peter.organisciak@du.edu) University of Denver
+- Andrea K. Thomer (athomer@umich.edu) University of Michigan
+- Nic Weber (nmweber@uw.edu) University of Washington
