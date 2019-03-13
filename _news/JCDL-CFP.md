@@ -5,11 +5,11 @@ date: 2019-03-08 16:11:00-0400
 inline: false
 ---
 
-SIG-CM is hosting a workshop at the 2019 [Joint Conference on Digital Libraries](https://2019.jcdl.org/). The workshop will take place on **June 6th** at the University of Illinois, Champaign-Urbana. Registration info for JCDL and the workshop can be found [here](https://2019.jcdl.org/registration/). 
+SIG-CM is hosting a workshop at the 2019 [Joint Conference on Digital Libraries](https://2019.jcdl.org/). The workshop will take place on **June 6th** at the University of Illinois, Champaign-Urbana. Registration info for JCDL and the workshop can be found [here](https://2019.jcdl.org/registration/).
 
-The call for papers (below) includes directions for how to make a submission to the workshop. All accepted submissions will be given a 15-25 minute slot for presentation and (friendly) discussion.
+Consider the call for papers below for directions on submitting to the workshop. All accepted submissions will be given a 15-25 minute slot for presentation and discussion.
 
-We're excited to announce that [Dr. Karen Wickett](https://ischool.illinois.edu/people/karen-wickett) will be giving a keynote lecture at the worksho! We also plan to organize a special issue for an information science journal based on the proceedings. If you have any questions please feel free to get in contact with any of the organizers in advance.
+We're excited to announce that [Dr. Karen Wickett](https://ischool.illinois.edu/people/karen-wickett) will be giving a keynote lecture at the workshop! We also plan to organize a special issue for an information science journal based on the proceedings. If you have any questions please feel free to get in contact with any of the organizers in advance.
 <br>
 
 ### Call For Papers
@@ -20,7 +20,10 @@ Advances in digital libraries, archives, museums and repositories have relied up
 Sustaining this rich tradition of research and development in conceptual modeling requires a collective effort from the digital library community. This workshop focuses on critically evaluating and furthering existing conceptual models, as well as developing an agenda for future research and community-building around these topics.
 
 **Contributions**
-We seek contributions from practitioners and researchers interested in digital collections in different domains, especially collections built upon different conceptual models emerging from different epistemologies and different traditions of knowledge organization: natural history museums, art museums, library special collections, archives, data repositories, earth science informatics, biodiversity informatics, etc. This may include topics relevant to conceptual modeling, including but not limited to:  the history and evolution of conceptual models, extensions to, or examinations of the limitations of, existing conceptual models, the development of domain-specific conceptual models (e.g. in the earth sciences, in the humanities, etc) applied strategies for modeling in development processes,  critical examination of the social and technical implications of conceptual models.
+We seek contributions from practitioners and researchers interested in digital collections in different domains, especially collections built upon different conceptual models emerging from different epistemologies and different traditions of knowledge organization: natural history museums, art museums, library special collections, archives, data repositories, earth science informatics, biodiversity informatics, etc. This may include topics relevant to conceptual modeling, including but not limited to:  - the history and evolution of conceptual models,
+- extensions to, or critiques of, existing conceptual models,
+- the development of domain-specific conceptual models (e.g. in the earth sciences, in the humanities, etc) applied strategies for modeling in development processes,
+- critical examination of the social and technical implications of conceptual models.
 
 Contributions may be of two varieties:
 
