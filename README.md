@@ -1,3 +1,7 @@
+# Sig-CM Gitpages
+
+See https://sig-cm.github.io for the compiled Conceptual Modeling SIG site.
+
 # al-folio
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
