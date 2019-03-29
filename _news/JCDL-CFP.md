@@ -9,13 +9,13 @@ SIG-CM is hosting a workshop at the 2019 [Joint Conference on Digital Libraries]
 
 Consider the call for papers below for directions on submitting to the workshop. All accepted submissions will be given a 15-25 minute slot for presentation and discussion.
 
-We're excited to announce that [Dr. Karen Wickett](https://ischool.illinois.edu/people/karen-wickett) will be giving a keynote lecture at the workshop! We also plan to organize a special issue for an information science journal based on the proceedings. If you have any questions please feel free to get in contact with any of the organizers in advance.
+We're also excited to announce that [Dr. Karen Wickett](https://ischool.illinois.edu/people/karen-wickett) will be giving a keynote lecture at the workshop! We also plan to organize a special issue for an information science journal based on the proceedings. If you have any questions please feel free to get in contact with any of the organizers in advance.
 <br>
 
 ### Call For Papers
 
-**Workshop Description**
-Advances in digital libraries, archives, museums and repositories have relied upon conceptual modeling efforts that provide formal representation information and identity conditions for digital resources. Examples include conceptual models traditional to library and information sciences, such as Functional Requirements for Bibliographic Records (FRBR), the uptake of data models from the semantic web, like the Resource Description Framework (RDF), as well as the development of protocols unique to the exchange of digital objects, such as the Open Archives Initiative for Object Reuse and Exchange (OAI-ORE).
+**Workshop Description**        
+Digital libraries, archives, museums and repositories often rely upon conceptuals models that provide formal representation information and identity conditions for informational resources. Examples include conceptual models traditional to library and information sciences, such as Functional Requirements for Bibliographic Records (FRBR), the uptake of data models from the semantic web, like the Resource Description Framework (RDF), as well as the development of protocols unique to the exchange of digital objects, such as the Open Archives Initiative for Object Reuse and Exchange (OAI-ORE).
 
 Sustaining this rich tradition of research and development in conceptual modeling requires a collective effort from the digital library community. This workshop focuses on critically evaluating and furthering existing conceptual models, as well as developing an agenda for future research and community-building around these topics.
 
