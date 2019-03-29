@@ -12,7 +12,7 @@ Consider the call for papers below for directions on submitting to the workshop.
 ### Call For Papers
 
 **Workshop Description**        
-Digital libraries, archives, museums and repositories often rely upon conceptuals models that provide formal representation information and identity conditions for informational resources. Examples include conceptual models traditional to library and information sciences, such as Functional Requirements for Bibliographic Records (FRBR), the uptake of data models from the semantic web, like the Resource Description Framework (RDF), as well as the development of protocols unique to the exchange of digital objects, such as the Open Archives Initiative for Object Reuse and Exchange (OAI-ORE).
+Digital libraries, archives, museums and repositories often rely upon conceptual models that provide formal representation information and identity conditions for informational resources. Examples include conceptual models traditional to library and information sciences, such as Functional Requirements for Bibliographic Records (FRBR), the uptake of data models from the semantic web, like the Resource Description Framework (RDF), as well as the development of protocols unique to the exchange of digital objects, such as the Open Archives Initiative for Object Reuse and Exchange (OAI-ORE).
 
 Sustaining this rich tradition of research and development in conceptual modeling requires a collective effort from the digital library community. This workshop focuses on critically evaluating and furthering existing conceptual models, as well as developing an agenda for future research and community-building around these topics.
 
