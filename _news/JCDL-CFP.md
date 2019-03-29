@@ -5,12 +5,9 @@ date: 2019-03-08 16:11:00-0400
 inline: false
 ---
 
-SIG-CM is hosting a workshop at the 2019 [Joint Conference on Digital Libraries](https://2019.jcdl.org/). The workshop will take place on **June 6th** at the University of Illinois, Champaign-Urbana. Registration info for JCDL and the workshop can be found [here](https://2019.jcdl.org/registration/).
+SIG-CM is hosting a workshop at the 2019 [Joint Conference on Digital Libraries](https://2019.jcdl.org/). The workshop will take place on **June 6th** at the University of Illinois, Champaign-Urbana. 
 
-Consider the call for papers below for directions on submitting to the workshop. All accepted submissions will be given a 15-25 minute slot for presentation and discussion.
-
-We're also excited to announce that [Dr. Karen Wickett](https://ischool.illinois.edu/people/karen-wickett) will be giving a keynote lecture at the workshop! We also plan to organize a special issue for an information science journal based on the proceedings. If you have any questions please feel free to get in contact with any of the organizers in advance.
-<br>
+Consider the call for papers below for directions on submitting to the workshop. All accepted submissions will be given a 15-25 minute slot for presentation and discussion. Registration information can be found [here](https://2019.jcdl.org/registration/).
 
 ### Call For Papers
 
@@ -40,6 +37,9 @@ Contributions may be of two varieties:
 Please submit a PDF, DOC, or TXT document to nmweber@uw.edu by April 25th. You may use any format or citation style that you prefer - However, we do suggest following the conference's [ACM template](https://www.acm.org/publications/proceedings-template).  
 
 All Submissions will be reviewed by the organizing committee.
+
+We're also excited to announce that [Dr. Karen Wickett](https://ischool.illinois.edu/people/karen-wickett) will be giving a keynote lecture at the workshop! We plan to organize a special issue for an information science journal based on the proceedings. If you have any questions please feel free to get in contact with any of the organizers in advance.
+<br>
 
 **Organizing Committee**      
 - Katrina Fenlon (kfenlon@umd.edu) University of Maryland
