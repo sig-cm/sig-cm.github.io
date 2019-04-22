@@ -9,6 +9,9 @@ SIG-CM is hosting a workshop at the 2019 [Joint Conference on Digital Libraries]
 
 Consider the call for papers below for directions on submitting to the workshop. All accepted submissions will be given a 15-25 minute slot for presentation and discussion. Registration information can be found [here](https://2019.jcdl.org/registration/).
 
+**NOTICE**: The deadline for submissions (as well as early-bird registration for JCDL!) has been extended to May 10. 
+<p>
+
 ### Call For Papers
 
 **Workshop Description**        
@@ -35,7 +38,7 @@ Contributions may be of two varieties:
 - Workshop will take place June 6th.
 
 **Instructions for Submission**            
-Please submit a PDF, DOC, or TXT document to nmweber@uw.edu by April 25th. You may use any format or citation style that you prefer - However, we do suggest following the conference's [ACM template](https://www.acm.org/publications/proceedings-template).  
+Please submit a PDF, DOC, or TXT document to `nmweber@uw.edu` by ~~April 25th~~ May 10th. You may use any format or citation style that you prefer - However, we do suggest following the conference's [ACM template](https://www.acm.org/publications/proceedings-template).  
 
 All Submissions will be reviewed by the organizing committee.
 
