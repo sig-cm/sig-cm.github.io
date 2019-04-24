@@ -12,7 +12,8 @@ Consider the call for papers below for directions on submitting to the workshop.
 **NOTICE**: The deadline for submissions (as well as early-bird registration for JCDL!) has been extended to **May 10**. 
 <p>
 
-### Call For Papers
+Call For Papers
+---------------
 
 **Workshop Description**        
 Libraries, archives, museums, and data repositories often rely upon conceptual models that provide formal representation information and identity conditions for digital resources. Examples include conceptual models traditional to library and information science, such as Functional Requirements for Bibliographic Records (FRBR), data models from the semantic web, like the Resource Description Framework (RDF), as well as the development of protocols unique to the exchange of digital objects, such as the Open Archives Initiative for Object Reuse and Exchange (OAI-ORE).
