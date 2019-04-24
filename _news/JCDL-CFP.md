@@ -1,11 +1,11 @@
 ---
 layout: post
-title: JCDL 2019 Workshop - CFP
+title: JCDL 2019 Workshop on Conceptual Modeling - CFP
 date: 2019-03-08 16:11:00-0400
 inline: false
 ---
 
-SIG-CM is hosting a workshop at the 2019 [Joint Conference on Digital Libraries](https://2019.jcdl.org/). The workshop will take place on **June 6th** at the University of Illinois, Champaign-Urbana. 
+SIG-CM (SIG-Conceptual Modeling) is hosting a workshop at the 2019 [Joint Conference on Digital Libraries](https://2019.jcdl.org/). The workshop will take place on **June 6th** at the University of Illinois, Champaign-Urbana. 
 
 Consider the call for papers below for directions on submitting to the workshop. All accepted submissions will be given a 15-25 minute slot for presentation and discussion. Registration information can be found [here](https://2019.jcdl.org/registration/).
 
