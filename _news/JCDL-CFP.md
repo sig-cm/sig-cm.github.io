@@ -7,13 +7,15 @@ inline: false
 
 SIG-CM (SIG-Conceptual Modeling) is hosting a workshop at the 2019 [Joint Conference on Digital Libraries](https://2019.jcdl.org/). The workshop will take place on **June 6th** at the University of Illinois, Champaign-Urbana. 
 
-Consider the call for papers below for directions on submitting to the workshop. All accepted submissions will be given a 15-25 minute slot for presentation and discussion. Registration information can be found [here](https://2019.jcdl.org/registration/).
+Consider the call for papers below for directions on submitting to the workshop. 
+
+All accepted submissions will be given a 15-25 minute slot for presentation and discussion. Registration information can be found [here](https://2019.jcdl.org/registration/).
+
 
 **NOTICE**: The deadline for submissions (as well as early-bird registration for JCDL!) has been extended to **May 10**. 
 <p>
 
 ### Call For Papers
-
 
 **Workshop Description**        
 Libraries, archives, museums, and data repositories often rely upon conceptual models that provide formal representation information and identity conditions for digital resources. Examples include conceptual models traditional to library and information science, such as Functional Requirements for Bibliographic Records (FRBR), data models from the semantic web, like the Resource Description Framework (RDF), as well as the development of protocols unique to the exchange of digital objects, such as the Open Archives Initiative for Object Reuse and Exchange (OAI-ORE).
