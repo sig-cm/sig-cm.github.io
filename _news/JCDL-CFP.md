@@ -13,7 +13,6 @@ All accepted submissions will be given a 15-25 minute slot for presentation and 
 
 
 **NOTICE**: The deadline for submissions (as well as early-bird registration for JCDL!) has been extended to **May 10**. 
-<p>
 
 ### Call For Papers
 
