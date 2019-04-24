@@ -9,7 +9,7 @@ SIG-CM (SIG-Conceptual Modeling) is hosting a workshop at the 2019 [Joint Confer
 
 Consider the call for papers below for directions on submitting to the workshop. All accepted submissions will be given a 15-25 minute slot for presentation and discussion. Registration information can be found [here](https://2019.jcdl.org/registration/).
 
-**NOTICE**: The deadline for submissions (as well as early-bird registration for JCDL!) has been extended to May 10. 
+**NOTICE**: The deadline for submissions (as well as early-bird registration for JCDL!) has been extended to **May 10**. 
 <p>
 
 ### Call For Papers
@@ -32,8 +32,8 @@ Contributions may be of two varieties:
 - **Short research papers** can present in-progress work, small case studies, position statements, or theoretical and conceptual analysis that is at an early stage of development. Short research papers should be a maximum 1500 words in length (not including citations).
 
 **Dates**          
-- Submission Deadline is April 25th
-- Notifications will be sent no later than April 29th
+- Submission Deadline is ~~April 25th~~ May 10th.
+- Notifications will be sent no later than May 12th
 - Accepted submissions can be revised before May 25th. At the time we will post all accepted submissions to the workshop website.
 - Workshop will take place June 6th.
 
