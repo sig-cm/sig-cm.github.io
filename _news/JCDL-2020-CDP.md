@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JCDL 2020 Workshop on Conceptual Modeling - CFP
+title: JCDL 2020 Workshop on Conceptual Modeling
 date: 2020-03-14
 inline: false
 ---
