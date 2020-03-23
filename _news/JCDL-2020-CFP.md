@@ -7,7 +7,7 @@ inline: false
 
 We're happy to announce a half-day workshop at the 2020 [Joint Conference on Digital Libraries](https://2020.jcdl.org/). 
 
-The workshop will take place on **August 1st** - both virtual and in-person presentations will be accepted. Registration information can be found [here](https://2020.jcdl.org/registration/).
+The workshop will take place on **August 1st** - both virtual and in-person presentations will be accepted. When egistration opens information can be found [here](https://2020.jcdl.org/Registration.html).
 
 ### Call For Papers
 
