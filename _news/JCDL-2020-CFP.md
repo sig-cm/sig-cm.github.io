@@ -7,7 +7,7 @@ inline: false
 
 We're happy to announce a half-day workshop at the 2020 [Joint Conference on Digital Libraries](https://2020.jcdl.org/). 
 
-The workshop will take place on **August 1st** - both virtual and in-person presentations will be accepted. When registration opens information can be found [here](https://2020.jcdl.org/Registration.html).
+The workshop will take place online **August 1st** - When registration opens information can be found [here](https://2020.jcdl.org/Registration.html). We are still waiting on details of exactly how the workshop will be run remotely. If you have any questions please be in touch with `nmweber@uw.edu `. We plan to treat this as an opportunity to Workshop papers that are in progress - please consider submitting any working ideas, position papers, or compeleted research that you would like feedback on.  
 
 ### Call For Papers
 
@@ -34,7 +34,7 @@ Contributions may be of two varieties:
 - Accepted submissions can be revised before August 1st. At the time we will post all accepted submissions to the workshop website.
 
 **Instructions for Submission**            
-Please submit a PDF, DOC, or TXT document to `nmweber@uw.edu` by June 28th. You may use any format or citation style that you prefer - However, we do suggest following the conference's [ACM template](https://www.acm.org/publications/proceedings-template).  
+Please submit a PDF, DOC, Markdown, or TXT document to `nmweber@uw.edu` by June 28th. You may use any format or citation style that you prefer - However, we do suggest following the conference's [ACM template](https://www.acm.org/publications/proceedings-template).  
 
 All Submissions will be reviewed by the organizing committee, and feedback (regardless of acceptance) will be provided to authors. If you have any questions please feel to contact an organizer in advance of the deadline for submissions. 
 <br>
