@@ -7,9 +7,7 @@ inline: false
 
 We're happy to announce a half-day workshop at the 2020 [Joint Conference on Digital Libraries](https://2020.jcdl.org/). 
 
-The workshop will take place online **August 5th** - When registration opens information can be found [here](https://2020.jcdl.org/Registration.html). 
-
-Note: We are still waiting on details of exactly how the workshop will be run remotely. If you have any questions please be in touch with `nmweber@uw.edu `. We plan to treat this as an opportunity to Workshop papers that are in progress - please consider submitting any working ideas, position papers, or compeleted research that you would like feedback on.  
+The workshop will take place online on **Wednesday, August 5th, 2020**. Registration is now open; information can be found [here](https://2020.jcdl.org/Registration.html). Note: We are still waiting on details of exactly how the workshop will be run remotely, including at what time. If you have any questions please be in touch with `nmweber@uw.edu `. We plan to treat this as an opportunity to Workshop papers that are in progress - please consider submitting any working ideas, position papers, or compeleted research that you would like feedback on.  
 
 ### Call For Papers
 
