@@ -7,7 +7,7 @@ inline: false
 
 We're happy to announce a half-day workshop at the 2020 [Joint Conference on Digital Libraries](https://2020.jcdl.org/). 
 
-The workshop will take place online **August 1st** - When registration opens information can be found [here](https://2020.jcdl.org/Registration.html). 
+The workshop will take place online **August 5th** - When registration opens information can be found [here](https://2020.jcdl.org/Registration.html). 
 
 Note: We are still waiting on details of exactly how the workshop will be run remotely. If you have any questions please be in touch with `nmweber@uw.edu `. We plan to treat this as an opportunity to Workshop papers that are in progress - please consider submitting any working ideas, position papers, or compeleted research that you would like feedback on.  
 
@@ -17,6 +17,8 @@ Note: We are still waiting on details of exactly how the workshop will be run re
 Conceptual models have long been fundamental to the development of information systems and the delivery of information services. As digital libraries, archives, museums, and other information organizations evolve to meet new information needs, there is simultaneously a need to revisit the assumptions upon which these technologies were originally designed. This includes the various ways that information objects are conceived of, described, and made discoverable by users of an information system -  as well as the relationship between complex digital objects as they are linked and shared across the web. 
 
 Conceptual modeling, understood to include concerns of both logical as well as physical models, is fundamental to delivering useful information experiences to end-users --  but their design, implementation, and maintenance often goes under-addressed in the Information Science literature. We seek to fill this gap through an annual workshop series -- SIG-CM -- that focuses on emerging research themes for modeling information, collections, and sociotechnical systems. 
+
+We are delighted to announce that [Dr. Jodi Schneider](https://ischool.illinois.edu/people/jodi-schneider) will provide the keynote lecture at this workshop.
 
 **Contributions**       
 The 2020 SIG-CM at JCDL seeks contributions from a variety of research and practitioner perspectives. This may include, but is not limited to, the following topics: 
