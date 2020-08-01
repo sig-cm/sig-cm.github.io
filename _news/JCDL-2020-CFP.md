@@ -59,8 +59,9 @@ August 2, 2020
 
 **Meeting location:** : The workshop will be held via zoom. The connection information is below. 
 
-Meeting ID: 364 740 8720
-Password: jcdl@day5
+- Zoom URL: https://acm-org.zoom.com.cn/j/3647408720
+- Meeting ID: 364 740 8720
+- Password: jcdl@day5
 
 **Notes**: During the workshop please feel free to contribute to or edit the shared [notes](https://docs.google.com/document/d/1nscET8Qy9FEyQ-NhLy4lNjsl2pudBBk-g67KGyBEJUY/edit) 
 
