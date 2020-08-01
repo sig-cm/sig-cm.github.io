@@ -59,17 +59,13 @@ August 2, 2020
 
 **Meeting location:** Online via Zoom. Directions on how to connect have been sent to all registered participants. 
 
-## Tentative Schedule
-The workshop will run from 3-6:30pm EST with a short break between papers. We plan to use this full time for discussion and presentations. 
+**Notes**: During the workshop please feel free to contribute to or edit the shared [notes](https://docs.google.com/document/d/1nscET8Qy9FEyQ-NhLy4lNjsl2pudBBk-g67KGyBEJUY/edit) 
 
-### Notes
-During the workshop please feel free to contribute to or edit the shared [notes](https://docs.google.com/document/d/1nscET8Qy9FEyQ-NhLy4lNjsl2pudBBk-g67KGyBEJUY/edit) 
-
-## Instructions to attendees
-Unless otherwise stated - please do not cite, share, or discuss papers from the workshop until authors have uploaded a final draft. 
+**Instructions to attendees**: Unless otherwise stated - please do not cite, share, or discuss papers from the workshop until authors have uploaded a final draft. 
 
 
 ### Schedule
+The workshop will run from 3-6:30pm EST with a short break between papers. We plan to use this full time for discussion and presentations. 
 
 | Start | End  | Topic                           | Moderator                       | Slides |
 |-------|------|---------------------------------|---------------------------------|-------|
