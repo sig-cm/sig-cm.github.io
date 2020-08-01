@@ -96,6 +96,6 @@ All papers and slides will be made available in the tables below.
 | Jacob Jett | Bibliographic Conceptual Model Definitions: Some Consequences of Natural Language Usage in IFLA’s Library Reference Model | Slides |
 | Yuanxi Fu | Argument-based curation for science | Slides |
 | Jingzhu Wei  + Allen Renear | Deviant Causal Chains: A Problem for the Conceptual Modeling of Influence | Slides |
-| Peter Organisciak | TBD| Slides |
-| Karen Wickett | TBD | Slides | 
+| Peter Organisciak | Considering Representative Works in Bibliographic Models | Slides |
+| Karen Wickett | Research Process Modeling for Geologic Mapping Workflows | Slides | 
 | Nic Weber | Unicode Imperialism & The Burmese Zawgyi-1 Font | Slides|
