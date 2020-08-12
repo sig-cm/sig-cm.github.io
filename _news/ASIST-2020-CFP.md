@@ -2,7 +2,7 @@
 layout: post
 title: ASIS&T Workhop: Conceptual Models of the Sociotechnical
 date: 2020-07-07
-inline: false
+inline: true
 ---
 
 # Conceptual Models of the Sociotechnical - CFP
@@ -19,9 +19,7 @@ Without a critical interrogation of conceptual models in practice we risk overlo
 
 This workshop is meant to convene researchers in information science interested in critical, careful examination of how we model information in sociotechnical systems. Areas of interest include, but are not limited to how we perceive of users, construct use cases, and develop technologies that facilitate accurate discovery, retrieval, and interaction with information objects. By interrogating the conceptual models underpinning sociotechnical systems we believe there is a unique and important contribution to be made by information scientists in combating misinformation, reducing bias, promoting fairness, and producing the types of information systems that allow communities of practice to flourish. 
 
-###Call for Contributions
-
-[ Say something about the format of the workshop and expectation for contribution to Special Issue of JASIST???]
+### Call for Contributions
 
 Contributions may be of two varieties:
 
