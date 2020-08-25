@@ -7,7 +7,7 @@ inline: false
 
 
 ### TL;DR
-An ASIS&T 2020 workshop for practitioners and researchers studying conceptual models in sociotechnical systems. Contributions to the workshop can be works-in-progress or completed research papers - due Sept 25th (see submission directions below). Keynotes will include Dr. Amelia Acker (University of Texas) and Dr. Ryan Shaw (University of North Carolina). 
+An ASIS&T 2020 workshop for practitioners and researchers studying conceptual models in sociotechnical systems. Contributions to the workshop can be works-in-progress or completed research papers - due Sept 25th (see submission directions below). Keynote speakers will include Dr. Amelia Acker (University of Texas) and Dr. Ryan Shaw (University of North Carolina). 
 
 ## About
 Information Science has long worked at the intersection of technology development and the critical study of technologies in particular places, serving particular people, at particular points in time. Conceptual models -- the representation of how a system works, as well as the information objects they process and transmit -- are fundamental to the construction, maintenance, and use of digital infrastructures that mutually constitute people and technology (the sociotechnical) (Kling, 1980; Agre, 1994; Selbst et al, 2019). Although conceptual models are critical to sociotechnical systems, they are often overlooked or under-described in information science research (Weber et al, 2019). 
@@ -41,6 +41,8 @@ Research papers might address (but are not limited to) the following topics:
 Please submit a PDF, DOC, Markdown, or TXT document to `nmweber@uw.edu` by September 25th. You may use any format or citation style that you prefer. 
 
 All Submissions will be reviewed by the organizing committee, and feedback (regardless of acceptance) will be provided to authors. If you have any questions please feel to contact an organizer in advance of the deadline for submissions. 
+
+Submissions will be non-archival, and the workshop is designed to support authors in developing and iterating their papers toward journal publication.
 <br>
 
 **Organizing Committee**            
