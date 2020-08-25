@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ASIS&T Workhop - Conceptual Models of the Sociotechnical
+title: ASIS&T Workshop - Conceptual Models of the Sociotechnical
 date: 2020-07-07
 inline: false
 --- 
