@@ -39,7 +39,7 @@ Research papers might address (but are not limited to) the following topics:
 - Accepted submissions can be revised before October 1st. At the time we will post all accepted submissions to a workshop website.
 
 **Instructions for Submission**            
-Please submit a PDF, DOC, Markdown, or TXT document to `nmweber@uw.edu` by June 28th. You may use any format or citation style that you prefer. 
+Please submit a PDF, DOC, Markdown, or TXT document to `nmweber@uw.edu` by Sept 15th. You may use any format or citation style that you prefer. 
 
 All Submissions will be reviewed by the organizing committee, and feedback (regardless of acceptance) will be provided to authors. If you have any questions please feel to contact an organizer in advance of the deadline for submissions. 
 <br>
