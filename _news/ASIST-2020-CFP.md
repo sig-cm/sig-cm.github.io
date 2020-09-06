@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ASIS&T Workshop - Conceptual Models of the Sociotechnical
-date: 2020-07-07
+date: 2020-09-01
 inline: false
 --- 
 
