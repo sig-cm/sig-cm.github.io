@@ -20,7 +20,7 @@ This workshop is meant to convene researchers in information science interested 
 
 ### Call for Contributions
 
-Because we'd truly like to truly use this as a **workshop** for papers, we are open to contributions in any state of completion.  Initial submissions should  consist of - at minimum - a 350 word abstract. We then ask that participants share their works-in-progress a week before the workshop so we can circulate drats with participants. Only abstracts will be published; drafts will _not_ be shared publicly.
+Because we'd truly like to truly use this as a **workshop** for papers, we are open to contributions in any state of completion.  Initial submissions should  consist of - at minimum - a 350 word abstract. We then ask that participants share their works-in-progress a week before the workshop so we can circulate drafts with participants. Only abstracts will be published; drafts will _not_ be shared publicly.
 
 Research papers might address (but are not limited to) the following topics: 
 - Critique of conceptual models in practice (e.g. in databases, digital libraries, retrieval systems, and in many other information systems).
