@@ -49,5 +49,28 @@ Submissions will be **non-archival**, and the workshop is designed to support au
 - Andrea K. Thomer (athomer@umich.edu) University of Michigan
 - Nic Weber (nmweber@uw.edu) University of Washington
 
-## Workshop Format (tentative)
-The proposed workshop will follow a mini-conference format, with an agenda focused on presenting and workshopping research papers. The workshop will take place across two days - October 22nd and 23rd (1-5pm EST) and include keynote talks from two experts in the field: Dr. Amelia Acker, and Dr. Ryan Shaw. The workshop will culminate in a forward-looking collaborative discussion about a conceptual modeling research agenda for information science. 
+## Workshop Format 
+The workshop will follow a mini-conference format, with an agenda focused on presenting and workshopping research papers. The workshop will take place across two days - October 22nd and 23rd (1-5pm EST) and include keynote talks from two experts in the field: Dr. Amelia Acker, and Dr. Ryan Shaw.
+
+## Proposed Agenda 
+Below are a list of the accepted papers and talks that will appear at the workshop.
+
+(Note: All times EDT - for a handy time conversion based on your location see [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop%2C+Part+1%3A+Conceptual+Models+in+Sociotechnical+Systems&iso=20201022T13&p1=263)) 
+
+| Date 	| Time 	| Title (abstracts) 	| Presenter 	| Discussant 	| Slides 	|
+|-	|-	|-	|-	|-	|-	|
+| October 22nd 	| 1:00 - 1:10 	| Welcome 	| Weber 	|  	|  	|
+|  	| 1:10 - 1:55 	| [Conceptual Structuration of Census Data](https://github.com/sig-cm/ASIST-2020/raw/master/Submissions/Tennis2020b.docx) 	| Tennis  	| Thomer 	|  	|
+|  	| 1:55 - 2:40 	| [Towards a Conceptual Model of Layered Temporality](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/hodges%20asist%20sigcm%20submission%2010-1-2020.pdf) 	| Hodges 	| Weber 	|  	|
+|  	| 2:40 - 3:25 	| [The Fate of Three Billion Friends](https://github.com/sig-cm/ASIST-2020/raw/master/Submissions/Halpin%20-%20The%20Fate%20of%20Three%20Billion%20Friends.docx) 	| Halpin  	| Organisciak 	|  	|
+|  	| 3:25 - 3:45 	| [What and Where is Ambiguity in Categorization?](https://github.com/sig-cm/ASIST-2020/raw/master/Submissions/RajanL_SIGCM_Abstract_1020.docx) 	| Rajan 	| Fenlon 	|  	|
+|  	| 3:45 - 4:05 	| [Community Values in the Dublin Core Metadata Initiative](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/BennettPeterson_SIGCMWorkshop.pdf) 	| Bennett and Peterson 	| Fenlon  	|  	|
+|  	| 4:05 - 5:00 	| What do Models Want? 	| Acker 	| Thomer  	|  	|
+| October 23rd 	| 1:00 - 1:10 	| Welcome 	| Weber 	|  	|  	|
+|  	| 1:10 - 1:55 	|[Methods as an Organizing Structure for Science](https://github.com/sig-cm/ASIST-2020/raw/master/Submissions/SIG-CM-outline--2020-10-05.docx) | Schneider 	| Organisciak 	|  	|
+|  	| 1:55 - 2:40 	| [Standardization, Semantic Violence,and Equifinal Closure in Semantic Interoperability Work](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/Hoffman_2020_Recursive%20Ontologization%20(Extended%20Abstract%2C%20ASIS%26T%20SIG-CM).pdf) 	| Hoffman 	| Thomer 	|  	|
+|  	| 2:40 - 3:25 	| [The Basic Representation Model for Digital Preservation and Information Organization](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/BRM_SIG-CM_ASIST2020.pdf) | Wickett  	| Fenlon 	|  	|
+|  	| 3:25 - 3:45 	| [Formally representing uncertainty with scholarly claims](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/ASIST2020_ConceptualModelingWorkshop_Formally-Representing-Interdisciplinary-Uncertainty-for-Synthesis.pdf) 	| Chan, Fenlon, and Lutters 	| Weber 	|  	|
+|  	| 3:45 - 4:05 	| [Conceptualizing academic storage for collaborative science production](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/Cragin_Nunez_SIGCM_Abstract_2020.pdf) 	| Cragin and Nunez-Corrales 	| Weber 	|  	|
+|  	| 4:05 - 5:00 	| Conceptual Models as Diplomatic Languages	| Shaw 	| Organisciak 	|  	|
+
