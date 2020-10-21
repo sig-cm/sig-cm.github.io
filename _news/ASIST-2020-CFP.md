@@ -52,7 +52,7 @@ Submissions will be **non-archival**, and the workshop is designed to support au
 ## Workshop Format 
 The workshop will follow a mini-conference format, with an agenda focused on presenting and workshopping research papers. The workshop will take place across two days - October 22nd and 23rd (1-5pm EST) and include keynote talks from two experts in the field: Dr. Amelia Acker, and Dr. Ryan Shaw.
 
-## Proposed Agenda 
+## Agenda 
 Below are a list of the accepted papers and talks that will appear at the workshop. We will post any additional drafts or slides to this agenda so check back as the workshop continues. 
 
 (Note: All times EDT - for a handy time conversion based on your location see [here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop%2C+Part+1%3A+Conceptual+Models+in+Sociotechnical+Systems&iso=20201022T13&p1=263)) 
@@ -63,7 +63,7 @@ Below are a list of the accepted papers and talks that will appear at the worksh
 |  	| 1:10 - 1:55 	| [Conceptual Structuration of Census Data](https://github.com/sig-cm/ASIST-2020/raw/master/Submissions/Tennis2020b.docx) 	| Tennis  	| Thomer 	|  	|
 |  	| 1:55 - 2:40 	| [Towards a Conceptual Model of Layered Temporality](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/hodges%20asist%20sigcm%20submission%2010-1-2020.pdf) 	| Hodges 	| Weber 	|  	|
 |  	| 2:40 - 3:25 	| [The Fate of Three Billion Friends](https://github.com/sig-cm/ASIST-2020/raw/master/Submissions/Halpin%20-%20The%20Fate%20of%20Three%20Billion%20Friends.docx) 	| Halpin  	| Organisciak 	|  	|
-|  	| 3:25 - 3:45 	| [What and Where is Ambiguity in Categorization?](https://github.com/sig-cm/ASIST-2020/raw/master/Submissions/RajanL_SIGCM_Abstract_1020.docx) 	| Rajan 	| Fenlon 	|  	|
+|  	| 3:25 - 3:45 	| [What and Where is Ambiguity in Categorization?](https://github.com/sig-cm/ASIST-2020/raw/master/Revisions/RajanL_SIGCM_ChainofSurrogationModel_Oct20.docx) 	| Rajan 	| Fenlon 	|  	|
 |  	| 3:45 - 4:05 	| [Community Values in the Dublin Core Metadata Initiative](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/BennettPeterson_SIGCMWorkshop.pdf) 	| Bennett and Peterson 	| Fenlon  	|  	|
 |  	| 4:05 - 5:00 	| Keynote 1: What do Models Want? 	| Acker 	| Thomer  	|  	|
 | October 23rd 	| 1:00 - 1:10 	| Welcome 	| Weber 	|  	|  	|
@@ -71,6 +71,17 @@ Below are a list of the accepted papers and talks that will appear at the worksh
 |  	| 1:55 - 2:40 	| [Standardization, Semantic Violence,and Equifinal Closure in Semantic Interoperability Work](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/Hoffman_2020_Recursive%20Ontologization%20(Extended%20Abstract%2C%20ASIS%26T%20SIG-CM).pdf) 	| Hoffman 	| Thomer 	|  	|
 |  	| 2:40 - 3:25 	| [The Basic Representation Model for Digital Preservation and Information Organization](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/BRM_SIG-CM_ASIST2020.pdf) | Wickett  	| Fenlon 	|  	|
 |  	| 3:25 - 3:45 	| [Formally representing uncertainty with scholarly claims](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/ASIST2020_ConceptualModelingWorkshop_Formally-Representing-Interdisciplinary-Uncertainty-for-Synthesis.pdf) 	| Chan, Fenlon, and Lutters 	| Weber 	|  	|
-|  	| 3:45 - 4:05 	| [Conceptualizing academic storage for collaborative science production](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/Cragin_Nunez_SIGCM_Abstract_2020.pdf) 	| Cragin and Nunez-Corrales 	| Weber 	|  	|
+|  	| 3:45 - 4:05 	| [Conceptualizing academic storage for collaborative science production](https://github.com/sig-cm/ASIST-2020/raw/master/Revisions/Cragin_Nunez_Abstract_Storage_and_Scientific_Production.pdf) 	| Cragin and Nunez-Corrales 	| Weber 	|  	|
 |  	| 4:05 - 5:00 	| Keynote 2: Conceptual Models as Diplomatic Languages	| Shaw 	| Organisciak 	|  	|
+
+## Keynote Abstracts  
+Each day will culminate with an invited keynote talk and discussion. Below are abstracts for the two keynotes: 
+
+**Day 1: What Do Models Want? - Amelia Acker** 
+
+Models abound in the information sciences. We use them to represent what we know—from digital objects, to systems, to processes, to markets, to information behaviors, amongst many other things. Conceptual models help us think through problems in our research, our theories, and even our teaching. As such, models possess power to influence us, to demand things from us, to persuade us, maybe even lead us in the wrong direction. But what do models want? In this talk I will argue that if we want to deeply understand the sociotechnical gaps between abstractions and our messy world, we need to rethink some assumptions about conceptual models in our practice, research, and pedagogy. 
+
+**Day 2: Conceptual Models as Diplomatic Languages - Ryan Shaw**
+
+Conceptual modeling is often treated as an obscure technical subfield of information science. One reason for this is that it is difficult to identify a unified tradition of conceptual modeling; instead there is a complex web of partially overlapping traditions of representing, modeling, and organizing data, information, and knowledge, each with its own preferred terminology, tools, and techniques. Despite this complexity, it is possible to conceive of conceptual modeling in a more coherent way. Understood in this way, conceptual modeling is not a subfield of information science or professional practice, but the very heart of both. Coming to understand conceptual modeling in this way requires knitting together two views of conceptual modeling found in differing proportions throughout its fragmented genealogy: modeling as description and modeling as design. Conceptual modeling is communication about communication, and as such it involves both the description of distinctions recognized by participants in particular discourses, and the design of better languages for expressing those distinctions. But the goals of conceptual modeling should not be limited to more precise description of specific discourses, or better design to meet the needs of participants in those discourses. The broader challenge for conceptual modeling, I will argue, is to construct diplomatic languages for negotiating compromises across disparate discourses and modes of communication.
 
