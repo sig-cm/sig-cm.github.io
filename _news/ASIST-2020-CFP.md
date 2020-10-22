@@ -60,12 +60,12 @@ Below are a list of the accepted papers and talks that will appear at the worksh
 | Date 	| Time 	| Title (abstracts) 	| Presenter 	| Discussant 	| Slides 	|
 |-	|-	|-	|-	|-	|-	|
 | October 22nd 	| 1:00 - 1:10 	| Welcome 	| Weber 	|  	|  	|
-|  	| 1:10 - 1:55 	| [Conceptual Structuration of Census Data](https://github.com/sig-cm/ASIST-2020/raw/master/Submissions/Tennis2020b.docx) 	| Tennis  	| Thomer 	|  	|
-|  	| 1:55 - 2:40 	| [Towards a Conceptual Model of Layered Temporality](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/hodges%20asist%20sigcm%20submission%2010-1-2020.pdf) 	| Hodges 	| Weber 	|  	|
-|  	| 2:40 - 3:25 	| [The Fate of Three Billion Friends](https://github.com/sig-cm/ASIST-2020/raw/master/Submissions/Halpin%20-%20The%20Fate%20of%20Three%20Billion%20Friends.docx) 	| Halpin  	| Organisciak 	|  	|
-|  	| 3:25 - 3:45 	| [What and Where is Ambiguity in Categorization?](https://github.com/sig-cm/ASIST-2020/raw/master/Revisions/RajanL_SIGCM_ChainofSurrogationModel_Oct20.docx) 	| Rajan 	| Fenlon 	|  	|
-|  	| 3:45 - 4:05 	| [Community Values in the Dublin Core Metadata Initiative](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/BennettPeterson_SIGCMWorkshop.pdf) 	| Bennett and Peterson 	| Fenlon  	|  	|
-|  	| 4:05 - 5:00 	| Keynote 1: What do Models Want? 	| Acker 	| Thomer  	|  	|
+|  	| 1:10 - 1:55 	| [Conceptual Structuration of Census Data](https://github.com/sig-cm/ASIST-2020/raw/master/Submissions/Tennis2020b.docx) 	| Tennis  	| Thomer 	| [Slides](https://github.com/sig-cm/ASIST-2020/raw/master/Presentations/Tennis2020b.pptx) 	|
+|  	| 1:55 - 2:40 	| [Towards a Conceptual Model of Layered Temporality](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/hodges%20asist%20sigcm%20submission%2010-1-2020.pdf) 	| Hodges 	| Weber 	| [Slides](https://github.com/sig-cm/ASIST-2020/raw/master/Presentations/hodges%20asist%20sigcm%20slides%202020.pdf) 	|
+|  	| 2:40 - 3:25 	| [The Fate of Three Billion Friends](https://github.com/sig-cm/ASIST-2020/raw/master/Submissions/Halpin%20-%20The%20Fate%20of%20Three%20Billion%20Friends.docx) 	| Halpin  	| Organisciak 	| [Slides](https://github.com/sig-cm/ASIST-2020/raw/master/Presentations/threebillion-halpin-asist.pdf) 	|
+|  	| 3:25 - 3:45 	| [What and Where is Ambiguity in Categorization?](https://github.com/sig-cm/ASIST-2020/raw/master/Revisions/RajanL_SIGCM_ChainofSurrogationModel_Oct20.docx) 	| Rajan 	| Fenlon 	| [Slides](https://github.com/sig-cm/ASIST-2020/raw/master/Presentations/RajanL_SIGCM%20Chain%20of%20surrogation%20slide.pdf) 	|
+|  	| 3:45 - 4:05 	| [Community Values in the Dublin Core Metadata Initiative](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/BennettPeterson_SIGCMWorkshop.pdf) 	| Bennett and Peterson 	| Fenlon  	| [Slides](https://github.com/sig-cm/ASIST-2020/blob/master/Presentations/Bennett%20CM%20Workshop%20Slides(1).pdf) 	|
+|  	| 4:05 - 5:00 	| Keynote 1: What do Models Want? 	| Acker 	| Thomer  	|  [Slides]()	|
 | October 23rd 	| 1:00 - 1:10 	| Welcome 	| Weber 	|  	|  	|
 |  	| 1:10 - 1:55 	|[Methods as an Organizing Structure for Science](https://github.com/sig-cm/ASIST-2020/raw/master/Submissions/SIG-CM-outline--2020-10-05.docx) | Schneider 	| Organisciak 	|  	|
 |  	| 1:55 - 2:40 	| [Standardization, Semantic Violence,and Equifinal Closure in Semantic Interoperability Work](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/Hoffman_2020_Recursive%20Ontologization%20(Extended%20Abstract%2C%20ASIS%26T%20SIG-CM).pdf) 	| Hoffman 	| Thomer 	|  	|
