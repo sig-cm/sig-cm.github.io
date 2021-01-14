@@ -69,7 +69,7 @@ Below are a list of the accepted papers and talks that will appear at the worksh
 | October 23rd 	| 1:00 - 1:10 	| Welcome 	| Weber 	|  	|  	|
 |  	| 1:10 - 1:55 	|[Methods as an Organizing Structure for Science](https://github.com/sig-cm/ASIST-2020/raw/master/Submissions/SIG-CM-outline--2020-10-05.docx) | Schneider 	| Organisciak 	|  	|
 |  	| 1:55 - 2:40 	| [Standardization, Semantic Violence,and Equifinal Closure in Semantic Interoperability Work](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/Hoffman_2020_Recursive%20Ontologization%20(Extended%20Abstract%2C%20ASIS%26T%20SIG-CM).pdf) 	| Hoffman 	| Thomer 	|  	|
-|  	| 2:40 - 3:25 	| [The Basic Representation Model for Digital Preservation and Information Organization](https://github.com/sig-cm/ASIST-2020/raw/master/Revisions/BRM_SIG-CM_20201021.pdf) | Wickett  	| Fenlon 	|  	|
+|  	| 2:40 - 3:25 	| The Basic Representation Model for Digital Preservation and Information Organization - For copy of paper please contact author | Wickett  	| Fenlon 	|  	|
 |  	| 3:25 - 3:45 	| [Formally representing uncertainty with scholarly claims](https://raw.githubusercontent.com/sig-cm/ASIST-2020/master/Submissions/ASIST2020_ConceptualModelingWorkshop_Formally-Representing-Interdisciplinary-Uncertainty-for-Synthesis.pdf) 	| Chan, Fenlon, and Lutters 	| Weber 	|  	|
 |  	| 3:45 - 4:05 	| [Conceptualizing academic storage for collaborative science production](https://github.com/sig-cm/ASIST-2020/raw/master/Revisions/Cragin_Nunez_Abstract_Storage_and_Scientific_Production.pdf) 	| Cragin and Nunez-Corrales 	| Weber 	|  	|
 |  	| 4:05 - 5:00 	| Keynote 2: Conceptual Models as Diplomatic Languages	| Shaw 	| Organisciak 	|  	|
